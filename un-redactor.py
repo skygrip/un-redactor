@@ -16,7 +16,7 @@ text = "watermellon"
 
 tkinter.Frame().destroy()
 font_object = tkFont.Font(family=font_name, size=font_size,
-                              weight=font_weight)
+                          weight=font_weight)
 
 
 def calc_width(font_name, font_size, font_weight, text):
