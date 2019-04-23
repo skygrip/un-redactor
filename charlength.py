@@ -8,7 +8,7 @@ import string
 
 font_name = "Times New Roman"
 font_size = "50"
-font_weight = "watermellon"
+font_weight = "normal"
 
 
 def calc_width(font_name, font_size, font_weight, text):
